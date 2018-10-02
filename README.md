@@ -1,2 +1,4 @@
 # hello-world
-My programs
+Hi humans!
+
+I lov meanstack
